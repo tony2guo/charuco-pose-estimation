@@ -10,13 +10,13 @@ ChArUco pose estimation using OpenCV
 
 
 Create ChArUco
-![charuco_board](images/charuco_board.png)
+![charuco_board](charuco_board.png)
 
 Detect markers
-![markers](images/markers.png)
+![markers](markers.png)
 
 Detect ChArUco
-![charuco](images/charuco.png)
+![charuco](charuco.png)
 
 ## Printer settings for Windows
 
