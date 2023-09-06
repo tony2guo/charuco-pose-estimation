@@ -18,6 +18,9 @@ Detect markers
 Detect ChArUco
 ![charuco](charuco.png)
 
+Projection
+![projection](projection.png)
+
 ## Printer settings for Windows
 
 - Uncheck `Fit picture to frame`:
